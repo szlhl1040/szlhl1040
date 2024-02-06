@@ -1,0 +1,14 @@
+__pycache__/
+*.log
+shell
+.idea/
+testcase/*
+!testcase/datastore
+!testcase/index
+!testcase/llm
+.vscode/
+.DS_Store/
+.env
+.DS_Store
+scaffold/
+demo_*
