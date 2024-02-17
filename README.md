@@ -9,4 +9,4 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=szlhl1040&theme=onedark" />
 </div>
 
-![Snake animation](https://github.com/szlhl1040/szlhl1040/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/szlhl1040/szlhl1040/assets/github-contribution-grid-snake.git)
